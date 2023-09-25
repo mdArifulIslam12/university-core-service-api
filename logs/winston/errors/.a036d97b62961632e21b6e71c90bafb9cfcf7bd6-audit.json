@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\.a036d97b62961632e21b6e71c90bafb9cfcf7bd6-audit.json",
+    "files": [
+        {
+            "date": 1694668248487,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-14-09-11-error.log",
+            "hash": "90aa7206128a22af017de28dd952c63862a4f11c19fb1a7b9d551221da522c13"
+        },
+        {
+            "date": 1694671295994,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-14-09-12-error.log",
+            "hash": "a21482646c37000d63962b180f92b4859abd0ce2bf70bfe59abf05465ce2ade9"
+        },
+        {
+            "date": 1694675868168,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-14-09-13-error.log",
+            "hash": "41c12a48a9b1e7c3d0785dfe91e2061f8a766a2527aeabb8b3b195b69afef2aa"
+        },
+        {
+            "date": 1694679641714,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-14-09-14-error.log",
+            "hash": "9a3ab04df3b522b990572955afa40a1ac5446aa98d7f46977f18b15b59bd608d"
+        },
+        {
+            "date": 1694689425178,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-14-09-17-error.log",
+            "hash": "ebc0b15b634a26f0754889282acdc445d9db0adf9e0355c6d5ff4d25737f63a2"
+        },
+        {
+            "date": 1695171623875,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-20-09-07-error.log",
+            "hash": "4fb9efd09701044476a4a8afee27f6a54276e292f087da8f449de9d790a92c7a"
+        },
+        {
+            "date": 1695384196000,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-22-09-18-error.log",
+            "hash": "00c1dfd45d6ac26b8805947d1ea84bbc643e4741cd7068a6a6d1ff6c078abf08"
+        },
+        {
+            "date": 1695392415076,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-22-09-20-error.log",
+            "hash": "bd3dbf60598282f4a3675d8c12542a6ef90df8a53a6141b54b22a7126fb95c5c"
+        },
+        {
+            "date": 1695396571640,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-22-09-21-error.log",
+            "hash": "9b1b45a72bb4bc082e474c13c68bc892063009f96b636a052cc442d51d1339e7"
+        },
+        {
+            "date": 1695432020791,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-23-09-07-error.log",
+            "hash": "af1e7487cd990fc2de4d3b4be30473558734d26d2166697533ae4ff9b7b26d2d"
+        },
+        {
+            "date": 1695454826372,
+            "name": "F:\\level-2\\SQL University\\university-management-core-service-starter-main\\logs\\winston\\errors\\phu-2023-23-09-13-error.log",
+            "hash": "c694cadde4c5310998f3c3948458f307962c1fce6bcf1ded08e78303d126b3a1"
+        }
+    ],
+    "hashType": "sha256"
+}
